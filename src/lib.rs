@@ -11,7 +11,7 @@
 //! ```
 //! # #[tokio::main]
 //! # async fn main() -> Result<(), Box<dyn std::error::Error>> {
-//! use tpb::{Category, search, torrent};
+//! use rbay::{Category, search, torrent};
 //!
 //! // Get a category by ID to search within that category.
 //! let movies = Category::new(201).unwrap();
