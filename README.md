@@ -1,3 +1,7 @@
+[![crates.io](https://img.shields.io/crates/v/rbay)](https://crates.io/crates/rbay)
+[![docs.rs](https://img.shields.io/docsrs/rbay)](https://docs.rs/rbay/latest/rbay)
+[![crates.io](https://img.shields.io/crates/l/rbay)](https://choosealicense.com/licenses/mit/)
+
 # Pirate Bay Client
 
 This is a minimal wrapper for [The Pirate Bay](https://thepiratebay.org/). It provides
@@ -5,7 +9,7 @@ functions to search for and fetch metadata on torrents. It is *not* a torrenting
 it only provides metadata. At present it does not support uploading torrents or managing
 user accounts either.
 
-See the docs for more information including example usage.
+See [the docs](https://docs.rs/rbay/latest/rbay/) for more information including example usage.
 
 ## Development
 
