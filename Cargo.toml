@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT"
 authors = ["cherry_"]
 description = "A minimal wrapper for The Pirate Bay API."
+repository = "https://github.com/cherrydot/rbay"
 
 [dependencies]
 chrono = { version = "0.4.31" }
